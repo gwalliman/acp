@@ -1,0 +1,125 @@
+[19-Apr-2012 16:33:25] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (0, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:12:\&quot;user warning\&quot;;s:8:\&quot;%message\&quot;;s:278:\&quot;MySQL server has gone away\nquery: UPDATE cache_menu SET data = &amp;#039;links:navigation:tree-data:5d6d3aaaaef5fba302ce62698fa37bbe&amp;#039;, created = 1334878405, expire = 0, headers = &amp;#039;&amp;#039;, serialized = 0 WHERE cid = &amp;#039;links:navigation:page-cid:gallery/portraits:1&amp;#039;\&quot;;s:5:\&quot;%file\&quot;;s:44:\&quot;/home/alyssa9/public_html/includes/cache.inc\&quot;;s:5:\&quot;%line\&quot;;i:108;}&#039;, 3, &#039;&#039;, &#039;http://alyssacampbellphotography.com/gallery/portraits&#039;, &#039;&#039;, &#039;213.186.127.4&#039;, 1334878405) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[19-Apr-2012 16:33:25] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (0, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:12:\&quot;user warning\&quot;;s:8:\&quot;%message\&quot;;s:129:\&quot;MySQL server has gone away\nquery: SELECT * FROM menu_router WHERE tab_root = &amp;#039;gallery/portraits&amp;#039; ORDER BY weight, title\&quot;;s:5:\&quot;%file\&quot;;s:43:\&quot;/home/alyssa9/public_html/includes/menu.inc\&quot;;s:5:\&quot;%line\&quot;;i:1326;}&#039;, 3, &#039;&#039;, &#039;http://alyssacampbellphotography.com/gallery/portraits&#039;, &#039;&#039;, &#039;213.186.127.4&#039;, 1334878405) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[19-Apr-2012 16:33:25] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (0, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:12:\&quot;user warning\&quot;;s:8:\&quot;%message\&quot;;s:174:\&quot;MySQL server has gone away\nquery: SELECT data, created, headers, expire, serialized FROM cache_menu WHERE cid = &amp;#039;links:secondary-links:page-cid:gallery/portraits:1&amp;#039;\&quot;;s:5:\&quot;%file\&quot;;s:44:\&quot;/home/alyssa9/public_html/includes/cache.inc\&quot;;s:5:\&quot;%line\&quot;;i:25;}&#039;, 3, &#039;&#039;, &#039;http://alyssacampbellphotography.com/gallery/portraits&#039;, &#039;&#039;, &#039;213.186.127.4&#039;, 1334878405) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[19-Apr-2012 16:33:25] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (0, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:12:\&quot;user warning\&quot;;s:8:\&quot;%message\&quot;;s:182:\&quot;MySQL server has gone away\nquery: SELECT p1, p2, p3, p4, p5, p6, p7, p8 FROM menu_links WHERE menu_name = &amp;#039;secondary-links&amp;#039; AND link_path IN (&amp;#039;gallery/portraits&amp;#039;)\&quot;;s:5:\&quot;%file\&quot;;s:43:\&quot;/home/alyssa9/public_html/includes/menu.inc\&quot;;s:5:\&quot;%line\&quot;;i:899;}&#039;, 3, &#039;&#039;, &#039;http://alyssacampbellphotography.com/gallery/portraits&#039;, &#039;&#039;, &#039;213.186.127.4&#039;, 1334878405) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[19-Apr-2012 16:33:25] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (0, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:12:\&quot;user warning\&quot;;s:8:\&quot;%message\&quot;;s:179:\&quot;MySQL server has gone away\nquery: SELECT p1, p2, p3, p4, p5, p6, p7, p8 FROM menu_links WHERE menu_name = &amp;#039;secondary-links&amp;#039; AND link_path = &amp;#039;gallery/portraits&amp;#039;\&quot;;s:5:\&quot;%file\&quot;;s:43:\&quot;/home/alyssa9/public_html/includes/menu.inc\&quot;;s:5:\&quot;%line\&quot;;i:904;}&#039;, 3, &#039;&#039;, &#039;http://alyssacampbellphotography.com/gallery/portraits&#039;, &#039;&#039;, &#039;213.186.127.4&#039;, 1334878405) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[19-Apr-2012 16:33:25] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (0, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:12:\&quot;user warning\&quot;;s:8:\&quot;%message\&quot;;s:485:\&quot;MySQL server has gone away\nquery: \n          SELECT m.load_functions, m.to_arg_functions, m.access_callback, m.access_arguments, m.page_callback, m.page_arguments, m.title, m.title_callback, m.title_arguments, m.type, m.description, ml.*\n          FROM menu_links ml LEFT JOIN menu_router m ON m.path = ml.router_path\n          WHERE ml.menu_name = &amp;#039;secondary-links&amp;#039; AND ml.plid IN (0)\n          ORDER BY p1 ASC, p2 ASC, p3 ASC, p4 ASC, p5 ASC, p6 ASC, p7 ASC, p8 ASC, p9 ASC\&quot;;s:5:\&quot;%file\&quot;;s:43:\&quot;/home/alyssa9/public_html/includes/menu.inc\&quot;;s:5:\&quot;%line\&quot;;i:942;}&#039;, 3, &#039;&#039;, &#039;http://alyssacampbellphotography in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[19-Apr-2012 16:33:25] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (0, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:12:\&quot;user warning\&quot;;s:8:\&quot;%message\&quot;;s:188:\&quot;MySQL server has gone away\nquery: SELECT data, created, headers, expire, serialized FROM cache_menu WHERE cid = &amp;#039;links:secondary-links:tree-data:5d6d3aaaaef5fba302ce62698fa37bbe&amp;#039;\&quot;;s:5:\&quot;%file\&quot;;s:44:\&quot;/home/alyssa9/public_html/includes/cache.inc\&quot;;s:5:\&quot;%line\&quot;;i:25;}&#039;, 3, &#039;&#039;, &#039;http://alyssacampbellphotography.com/gallery/portraits&#039;, &#039;&#039;, &#039;213.186.127.4&#039;, 1334878405) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[19-Apr-2012 16:33:25] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (0, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:12:\&quot;user warning\&quot;;s:8:\&quot;%message\&quot;;s:309:\&quot;MySQL server has gone away\nquery: UPDATE cache_menu SET data = &amp;#039;a:2:{s:4:\\&amp;quot;tree\\&amp;quot;;a:0:{}s:10:\\&amp;quot;node_links\\&amp;quot;;a:0:{}}&amp;#039;, created = 1334878405, expire = 0, headers = &amp;#039;&amp;#039;, serialized = 1 WHERE cid = &amp;#039;links:secondary-links:tree-data:5d6d3aaaaef5fba302ce62698fa37bbe&amp;#039;\&quot;;s:5:\&quot;%file\&quot;;s:44:\&quot;/home/alyssa9/public_html/includes/cache.inc\&quot;;s:5:\&quot;%line\&quot;;i:108;}&#039;, 3, &#039;&#039;, &#039;http://alyssacampbellphotography.com/gallery/portraits&#039;, &#039;&#039;, &#039;213.186.127.4&#039;, 1334878405) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[19-Apr-2012 16:33:25] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (0, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:12:\&quot;user warning\&quot;;s:8:\&quot;%message\&quot;;s:288:\&quot;MySQL server has gone away\nquery: UPDATE cache_menu SET data = &amp;#039;links:secondary-links:tree-data:5d6d3aaaaef5fba302ce62698fa37bbe&amp;#039;, created = 1334878405, expire = 0, headers = &amp;#039;&amp;#039;, serialized = 0 WHERE cid = &amp;#039;links:secondary-links:page-cid:gallery/portraits:1&amp;#039;\&quot;;s:5:\&quot;%file\&quot;;s:44:\&quot;/home/alyssa9/public_html/includes/cache.inc\&quot;;s:5:\&quot;%line\&quot;;i:108;}&#039;, 3, &#039;&#039;, &#039;http://alyssacampbellphotography.com/gallery/portraits&#039;, &#039;&#039;, &#039;213.186.127.4&#039;, 1334878405) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[19-Apr-2012 16:33:26] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (0, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:12:\&quot;user warning\&quot;;s:8:\&quot;%message\&quot;;s:2895:\&quot;MySQL server has gone away\nquery: UPDATE sessions SET uid = 0, cache = 0, hostname = &amp;#039;213.186.127.4&amp;#039;, session = &amp;#039;messages|a:1:{s:5:\\&amp;quot;error\\&amp;quot;;a:7:{i:0;s:248:\\&amp;quot;user warning: MySQL server has gone away\\nquery: SELECT data, created, headers, expire, serialized FROM cache_menu WHERE cid = &amp;amp;#039;links:secondary-links:page-cid:gallery/portraits:1&amp;amp;#039; in /home/alyssa9/public_html/includes/cache.inc on line 25.\\&amp;quot;;i:1;s:256:\\&amp;quot;user warning: MySQL server has gone away\\nquery: SELECT p1, p2, p3, p4, p5, p6, p7, p8 FROM menu_links WHERE menu_name = &amp;amp;#039;secondary-links&amp;amp;#039; AND in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[31-Aug-2012 17:57:26] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (41, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:12:\&quot;user warning\&quot;;s:8:\&quot;%message\&quot;;s:123:\&quot;MySQL server has gone away\nquery: DELETE FROM cache_form WHERE cid = &amp;#039;form_form-1c51a5525493d93b7f3f9dfd42ac3e77&amp;#039;\&quot;;s:5:\&quot;%file\&quot;;s:44:\&quot;/home/alyssa9/public_html/includes/cache.inc\&quot;;s:5:\&quot;%line\&quot;;i:178;}&#039;, 3, &#039;&#039;, &#039;http://www.alyssacampbellphotography.com/comment/reply/152&#039;, &#039;http://www.alyssacampbellphotography.com/comment/reply/152&#039;, &#039;123.153.64.40&#039;, 1346461046) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[31-Aug-2012 17:57:26] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (41, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:12:\&quot;user warning\&quot;;s:8:\&quot;%message\&quot;;s:126:\&quot;MySQL server has gone away\nquery: DELETE FROM cache_form WHERE cid = &amp;#039;storage_form-1c51a5525493d93b7f3f9dfd42ac3e77&amp;#039;\&quot;;s:5:\&quot;%file\&quot;;s:44:\&quot;/home/alyssa9/public_html/includes/cache.inc\&quot;;s:5:\&quot;%line\&quot;;i:178;}&#039;, 3, &#039;&#039;, &#039;http://www.alyssacampbellphotography.com/comment/reply/152&#039;, &#039;http://www.alyssacampbellphotography.com/comment/reply/152&#039;, &#039;123.153.64.40&#039;, 1346461046) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[31-Aug-2012 17:57:26] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (41, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:12:\&quot;user warning\&quot;;s:8:\&quot;%message\&quot;;s:888:\&quot;MySQL server has gone away\nquery: UPDATE sessions SET uid = 41, cache = 0, hostname = &amp;#039;123.153.64.40&amp;#039;, session = &amp;#039;messages|a:2:{s:6:\\&amp;quot;status\\&amp;quot;;a:1:{i:0;s:104:\\&amp;quot;Your comment has been queued for moderation by site administrators and will be published after approval.\\&amp;quot;;}s:5:\\&amp;quot;error\\&amp;quot;;a:2:{i:0;s:198:\\&amp;quot;user warning: MySQL server has gone away\\nquery: DELETE FROM cache_form WHERE cid = &amp;amp;#039;form_form-1c51a5525493d93b7f3f9dfd42ac3e77&amp;amp;#039; in /home/alyssa9/public_html/includes/cache.inc on line 178.\\&amp;quot;;i:1;s:201:\\&amp;quot;user warning: MySQL server has gone aw in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[31-Aug-2012 17:57:26] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (41, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:7:\&quot;warning\&quot;;s:8:\&quot;%message\&quot;;s:137:\&quot;Cannot modify header information - headers already sent by (output started at /home/alyssa9/public_html/includes/database.mysqli.inc:134)\&quot;;s:5:\&quot;%file\&quot;;s:45:\&quot;/home/alyssa9/public_html/includes/common.inc\&quot;;s:5:\&quot;%line\&quot;;i:344;}&#039;, 3, &#039;&#039;, &#039;http://www.alyssacampbellphotography.com/comment/reply/152&#039;, &#039;http://www.alyssacampbellphotography.com/comment/reply/152&#039;, &#039;123.153.64.40&#039;, 1346461046) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[07-Sep-2012 07:09:16] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (0, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:12:\&quot;user warning\&quot;;s:8:\&quot;%message\&quot;;s:174:\&quot;MySQL server has gone away\nquery: SELECT dst FROM url_alias WHERE src = &amp;#039;blogapi/rsd&amp;#039; AND language IN(&amp;#039;en&amp;#039;, &amp;#039;&amp;#039;) ORDER BY language DESC, pid DESC\&quot;;s:5:\&quot;%file\&quot;;s:43:\&quot;/home/alyssa9/public_html/includes/path.inc\&quot;;s:5:\&quot;%line\&quot;;i:68;}&#039;, 3, &#039;&#039;, &#039;http://alyssacampbellphotography.com/&#039;, &#039;&#039;, &#039;65.36.241.79&#039;, 1347026950) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[07-Sep-2012 07:09:17] PHP Warning:  MySQL server has gone away
+query: UPDATE sessions SET uid = 0, cache = 0, hostname = &#039;65.36.241.79&#039;, session = &#039;messages|a:1:{s:5:\&quot;error\&quot;;a:1:{i:0;s:247:\&quot;user warning: MySQL server has gone away\nquery: SELECT dst FROM url_alias WHERE src = &amp;#039;blogapi/rsd&amp;#039; AND language IN(&amp;#039;en&amp;#039;, &amp;#039;&amp;#039;) ORDER BY language DESC, pid DESC in /home/alyssa9/public_html/includes/path.inc on line 68.\&quot;;}}&#039;, timestamp = 1347026957 WHERE sid = &#039;9ee6f1206ebd1de5721f7e2353bd13ad&#039; in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[07-Sep-2012 07:09:17] PHP Warning:  MySQL server has gone away
+query: SELECT p.perm FROM role r INNER JOIN permission p ON p.rid = r.rid WHERE r.rid IN (1) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[12-Sep-2012 11:12:11] PHP Warning:  Query execution was interrupted
+query: SELECT src FROM url_alias WHERE dst = &#039;blog/1&#039; AND language IN(&#039;en&#039;, &#039;&#039;) ORDER BY language DESC, pid DESC in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[12-Sep-2012 11:12:11] PHP Warning:  MySQL server has gone away
+query: SELECT p.perm FROM role r INNER JOIN permission p ON p.rid = r.rid WHERE r.rid IN (1) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[26-Sep-2012 09:56:07] PHP Warning:  Lost connection to MySQL server during query
+query: SELECT filename FROM system WHERE name = &#039;user&#039; AND type = &#039;module&#039; in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[26-Sep-2012 09:56:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alyssa9/public_html/includes/database.mysqli.inc:134) in /home/alyssa9/public_html/includes/bootstrap.inc on line 725
+[26-Sep-2012 09:56:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alyssa9/public_html/includes/database.mysqli.inc:134) in /home/alyssa9/public_html/includes/bootstrap.inc on line 726
+[26-Sep-2012 09:56:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alyssa9/public_html/includes/database.mysqli.inc:134) in /home/alyssa9/public_html/includes/bootstrap.inc on line 727
+[26-Sep-2012 09:56:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alyssa9/public_html/includes/database.mysqli.inc:134) in /home/alyssa9/public_html/includes/bootstrap.inc on line 728
+[26-Sep-2012 09:56:08] PHP Warning:  MySQL server has gone away
+query: SELECT COUNT(pid) FROM url_alias in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[26-Sep-2012 09:56:08] PHP Fatal error:  Call to undefined function filter_xss() in /home/alyssa9/public_html/includes/common.inc on line 655
+[26-Sep-2012 09:56:08] PHP Warning:  MySQL server has gone away
+query: SELECT p.perm FROM role r INNER JOIN permission p ON p.rid = r.rid WHERE r.rid IN (1) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[26-Sep-2012 09:56:42] PHP Warning:  Query execution was interrupted
+query: SELECT filename FROM system WHERE name = &#039;user&#039; AND type = &#039;module&#039; in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[26-Sep-2012 09:56:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alyssa9/public_html/includes/database.mysqli.inc:134) in /home/alyssa9/public_html/includes/bootstrap.inc on line 725
+[26-Sep-2012 09:56:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alyssa9/public_html/includes/database.mysqli.inc:134) in /home/alyssa9/public_html/includes/bootstrap.inc on line 726
+[26-Sep-2012 09:56:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alyssa9/public_html/includes/database.mysqli.inc:134) in /home/alyssa9/public_html/includes/bootstrap.inc on line 727
+[26-Sep-2012 09:56:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alyssa9/public_html/includes/database.mysqli.inc:134) in /home/alyssa9/public_html/includes/bootstrap.inc on line 728
+[26-Sep-2012 09:56:42] PHP Warning:  MySQL server has gone away
+query: SELECT COUNT(pid) FROM url_alias in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[26-Sep-2012 09:56:42] PHP Fatal error:  Call to undefined function filter_xss() in /home/alyssa9/public_html/includes/common.inc on line 655
+[26-Sep-2012 09:56:42] PHP Warning:  MySQL server has gone away
+query: SELECT p.perm FROM role r INNER JOIN permission p ON p.rid = r.rid WHERE r.rid IN (1) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[17-Oct-2012 03:24:34] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (48, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:12:\&quot;user warning\&quot;;s:8:\&quot;%message\&quot;;s:123:\&quot;MySQL server has gone away\nquery: DELETE FROM cache_form WHERE cid = &amp;#039;form_form-00e57d2eb9636ac8e9674e744a515250&amp;#039;\&quot;;s:5:\&quot;%file\&quot;;s:44:\&quot;/home/alyssa9/public_html/includes/cache.inc\&quot;;s:5:\&quot;%line\&quot;;i:178;}&#039;, 3, &#039;&#039;, &#039;http://www.alyssacampbellphotography.com/comment/reply/153&#039;, &#039;http://www.alyssacampbellphotography.com/comment/reply/153&#039;, &#039;183.182.86.164&#039;, 1350469474) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[17-Oct-2012 03:24:34] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (48, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:12:\&quot;user warning\&quot;;s:8:\&quot;%message\&quot;;s:126:\&quot;MySQL server has gone away\nquery: DELETE FROM cache_form WHERE cid = &amp;#039;storage_form-00e57d2eb9636ac8e9674e744a515250&amp;#039;\&quot;;s:5:\&quot;%file\&quot;;s:44:\&quot;/home/alyssa9/public_html/includes/cache.inc\&quot;;s:5:\&quot;%line\&quot;;i:178;}&#039;, 3, &#039;&#039;, &#039;http://www.alyssacampbellphotography.com/comment/reply/153&#039;, &#039;http://www.alyssacampbellphotography.com/comment/reply/153&#039;, &#039;183.182.86.164&#039;, 1350469474) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[17-Oct-2012 03:24:34] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (48, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:12:\&quot;user warning\&quot;;s:8:\&quot;%message\&quot;;s:889:\&quot;MySQL server has gone away\nquery: UPDATE sessions SET uid = 48, cache = 0, hostname = &amp;#039;183.182.86.164&amp;#039;, session = &amp;#039;messages|a:2:{s:6:\\&amp;quot;status\\&amp;quot;;a:1:{i:0;s:104:\\&amp;quot;Your comment has been queued for moderation by site administrators and will be published after approval.\\&amp;quot;;}s:5:\\&amp;quot;error\\&amp;quot;;a:2:{i:0;s:198:\\&amp;quot;user warning: MySQL server has gone away\\nquery: DELETE FROM cache_form WHERE cid = &amp;amp;#039;form_form-00e57d2eb9636ac8e9674e744a515250&amp;amp;#039; in /home/alyssa9/public_html/includes/cache.inc on line 178.\\&amp;quot;;i:1;s:201:\\&amp;quot;user warning: MySQL server has gone a in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
+[17-Oct-2012 03:24:34] PHP Warning:  MySQL server has gone away
+query: INSERT INTO watchdog
+    (uid, type, message, variables, severity, link, location, referer, hostname, timestamp)
+    VALUES
+    (48, &#039;php&#039;, &#039;%message in %file on line %line.&#039;, &#039;a:4:{s:6:\&quot;%error\&quot;;s:7:\&quot;warning\&quot;;s:8:\&quot;%message\&quot;;s:137:\&quot;Cannot modify header information - headers already sent by (output started at /home/alyssa9/public_html/includes/database.mysqli.inc:134)\&quot;;s:5:\&quot;%file\&quot;;s:45:\&quot;/home/alyssa9/public_html/includes/common.inc\&quot;;s:5:\&quot;%line\&quot;;i:344;}&#039;, 3, &#039;&#039;, &#039;http://www.alyssacampbellphotography.com/comment/reply/153&#039;, &#039;http://www.alyssacampbellphotography.com/comment/reply/153&#039;, &#039;183.182.86.164&#039;, 1350469474) in /home/alyssa9/public_html/includes/database.mysqli.inc on line 134
